@@ -2,7 +2,7 @@ from unicodedata import numeric
 
 
 print("-----------------------")
-print("Advent of Code Day1-1")
+print("Advent of Code Day1-2")
 print("-----------------------")
 
 with open('input1.txt') as input:
